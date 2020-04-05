@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/Octopredd"]
+	path = themes/Octopredd
+	url = https://github.com/parsiya/Hugo-Octopress-Test
+[submodule "themes/Octopress"]
+	path = themes/Octopress
+	url = https://github.com/parsiya/Hugo-Octopress-Test
